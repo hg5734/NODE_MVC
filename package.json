@@ -9,7 +9,12 @@
   "author": "Himanshu Goyal",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "layers": "0.0.3"
+    "express-validation": "^1.0.2",
+    "jsonwebtoken": "^7.4.1",
+    "layers": "0.0.3",
+    "mongoose": "^4.11.4",
+    "morgan": "^1.8.2"
   }
 }
